@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VivianeAlves
-- 👀 I’m interested in web programming.
-- 🌱 I’m currently learning Ruby On Rails and PHP.
-- 💞️ I’m looking to collaborate on Ruby on Rails Projects.
-- 📫 How to reach me vivianeaspx@gmail.com.
+- 👋 Oi, Me chamo Viviane Alves (@VivianeAlves)
+- 👀 Gosto de trabalhar com programação web, principalmente na área de frontend :computer:.
+- 🌱 Eu amo :heart: Ruby On Rails.
+- 💞️ Este aqui é meu repositório de projetos.
 
 <!---
 VivianeAlves/VivianeAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
